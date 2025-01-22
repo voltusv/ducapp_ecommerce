@@ -1,0 +1,61 @@
+# Copyright (C) 2025 Voltusautomation
+# This file is distributed under the same license as the DUCAPP Gateway plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: DUCAPP Gateway 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/misha-gateway\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-01-17T03:44:57+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: ducapp\n"
+
+#. Plugin Name of the plugin
+#: ducapp-gateway.php
+msgid "DUCAPP Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: ducapp-gateway.php
+msgid "https://voltusautomation.com/"
+msgstr ""
+
+#. Description of the plugin
+#: ducapp-gateway.php
+msgid "Take credit card payments on your store."
+msgstr ""
+
+#. Author of the plugin
+#: ducapp-gateway.php
+msgid "Voltusautomation"
+msgstr ""
+
+#: ducapp-gateway.php:84
+msgid "Pago confirmado mediante webhook."
+msgstr ""
+
+#: ducapp-gateway.php:132
+msgid "Ducapp Gateway"
+msgstr ""
+
+#: ducapp-gateway.php:133
+msgid "Description of Ducapp payment gateway"
+msgstr ""
+
+#: ducapp-gateway.php:197
+msgid "Sandbox"
+msgstr ""
+
+#: ducapp-gateway.php:198
+msgid "Live"
+msgstr ""
+
+#: ducapp-gateway.php:250
+#: ducapp-gateway.php:259
+msgid "Error creating payment link."
+msgstr ""

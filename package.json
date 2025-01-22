@@ -1,0 +1,16 @@
+{
+  "name": "misha-gateway",
+  "version": "1.0.0",
+  "main": "misha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@wordpress/scripts": "^30.8.1"
+  }
+}
