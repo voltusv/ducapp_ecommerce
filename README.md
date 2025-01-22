@@ -21,7 +21,7 @@ DUCAPP Payment Gateway is a powerful WooCommerce plugin designed to simplify pay
 
 4. Click **Upload Plugin** and choose the downloaded zip file.
 
-5. Click **Install Now,** and once installed, click** Activate Plugin.**
+5. Click **Install Now,** and once installed, click **Activate Plugin.**
 
 #### Configuration
 
