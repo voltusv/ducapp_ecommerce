@@ -16,7 +16,7 @@ class WC_Ducapp_API
 
     public function __construct($environment = 'staging', $api_key = '')
     {
-        $this->api_url = $environment == 'staging' ? "https://backend.ducapp.net" : 'https://backend.ducapp.net';
+        $this->api_url = $environment == 'staging' ? "https://backend.ducapp.net" : 'https://backend.ducwallet.com';
         $this->api_key = $api_key;
         $this->access_token = '';
 
